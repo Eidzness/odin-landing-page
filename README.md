@@ -1,1 +1,1 @@
-# odin-landing-page
+This is my landing page I'm going to build from TOP's HTML/CSS course. Here I'll be showcasing knowledge I've learned about HTML and CSS. Enjoy!
